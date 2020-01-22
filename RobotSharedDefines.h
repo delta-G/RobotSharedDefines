@@ -32,6 +32,8 @@ enum DriveModeEnum {
 
 #define XBOX_RAW_BUFFER_SIZE 14
 
+#define ROBOT_DATA_DUMP_SIZE 21
+
 #define ROBOT_IP 192, 168, 1, 75
 #define ROBOT_PORT 1234
 
